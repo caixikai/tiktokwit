@@ -82,9 +82,9 @@ Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该�
 
 ## Demo视频
 - 原版视频-英文
-
+https://smartboximagesavecxk.oss-cn-shenzhen.aliyuncs.com/demo-mp4/Soil%20moisture%20meter%20product%20reviews%20OK-%20EN%20Original.mp4
 <video width="640" height="360" controls>
-  <source src="https://smartboximagesavecxk.oss-cn-shenzhen.aliyuncs.com/demo-mp4/Soil%20moisture%20meter%20product%20reviews%20OK-%20EN%20Original.mp4" type="video/mp4">
+  <source src="" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
