@@ -80,7 +80,7 @@ Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该�
 2. 大家可以尝试参考吴恩达老师的translation-agent对本项目代码做进一步的修改。
 3. 对于亚洲语系，openai输出日文和韩文语音文件测试效果不理想。
    
-# 交流群
+# 社区交流群
 <img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="515" height="720">
 
 
