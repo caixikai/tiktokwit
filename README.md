@@ -80,16 +80,13 @@ Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该�
 2. 大家可以尝试参考吴恩达老师的translation-agent对本项目代码做进一步的修改。
 3. 对于亚洲语系，openai输出日文和韩文语音文件测试效果不理想。
 
-## Demo视频
-- 原版视频-英文
-https://smartboximagesavecxk.oss-cn-shenzhen.aliyuncs.com/demo-mp4/Soil%20moisture%20meter%20product%20reviews%20OK-%20EN%20Original.mp4
-<video width="640" height="360" controls>
-  <source src="" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-   
 # 社区交流群
 <img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="515" height="720">
 
+# 视频演示
+原视频-英文
+<video width="640" height="360" controls>
+  <source src="https://smartboximagesavecxk.oss-cn-shenzhen.aliyuncs.com/demo-mp4/Soil%20moisture%20meter%20product%20reviews%20OK-%20EN%20Original.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
