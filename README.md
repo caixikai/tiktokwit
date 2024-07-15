@@ -81,7 +81,7 @@ Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该�
 3. 对于亚洲语系，openai输出日文和韩文语音文件测试效果不理想。
 
 # 社区交流群
-<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="515" height="720">
+<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="500">
 
 # 视频演示
 原视频-英文
