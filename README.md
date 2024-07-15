@@ -84,5 +84,5 @@ Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该�
 <img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="500">
 
 # 视频演示
-原视频-英文
-https://github.com/caixikai/tiktokwit/blob/main/demomp4/Soil%20moisture%20meter%20product%20reviews%20OK-%20EN%20Original.mp4
+所有demo视频都在tiktokwit/demomp4/这个目录下面
+
