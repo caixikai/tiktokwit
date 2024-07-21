@@ -144,7 +144,7 @@ def estimate_duration_ms(text, wpm):
 '''
 
 
-def adjust_translation_and_continue_chat(english_text, english_duration_ms, target_duration_ms, language_name,file_name,gptModel =GPTModel.GPT_4_o):
+def adjust_translation_and_continue_chat(english_text, english_duration_ms, target_duration_ms, language_name,file_name,gptModel =GPTModel.GPT_4_o_MINI):
     """
     Adjusts the translation of text to fit a target duration and continues the chat with an additional message.
     Assumes that both translate_text_to_englishV3 and ContinueChat functions return a list of messages,
@@ -264,7 +264,7 @@ def adjust_translation_and_continue_chat(english_text, english_duration_ms, targ
 
     if (retry ==True):
        #attempts= adjust_translation_and_continue_chat(english_text, english_duration_ms, target_duration_ms, language_name,file_name,GPTModel.GPT_4_TURBO_2024_04_09)
-       attempts= adjust_translation_and_continue_chat(english_text, english_duration_ms, target_duration_ms, language_name,file_name,GPTModel.GPT_4_o)
+       attempts= adjust_translation_and_continue_chat(english_text, english_duration_ms, target_duration_ms, language_name,file_name,GPTModel.GPT_4_o_MINI)
        return attempts
     
     SystemLogger.info(attempts)

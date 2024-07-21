@@ -154,7 +154,7 @@ def generate_timestamped_filepath(video_path):
     
     # 构建新的文件名
    
-    filename = f"[SoraAPI.net]_{timestamp}.mp4"
+    filename = f"[Tiktokwit.com]_{timestamp}.mp4"
     
     # 构建新文件的完整路径
     new_file_path = os.path.join(directory, filename)

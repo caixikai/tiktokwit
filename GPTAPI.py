@@ -18,10 +18,11 @@ import openai  # 确保已安装并正确配置了OpenAI库
 # 定义一个名为GPTModel的枚举
 class GPTModel(Enum):
     GPT_3_5_TURBO = "gpt-3.5-turbo"
-    GPT_4_o ="gpt-4o"
-
+    #GPT_4_o ="gpt-4o"
+    GPT_4_o_MINI ="gpt-4o-mini"
+ 
 class GPTTranslator:
-    def __init__(self, gpt_model=GPTModel.GPT_4_o):
+    def __init__(self, gpt_model=GPTModel.GPT_4_o_MINI):
         
         os.environ['OPENAI_API_KEY'] = SysConfig.OPENAI_API_KEY
         self.gpt4Model = gpt_model
@@ -642,7 +643,7 @@ if __name__ == "__main__":
     result = gptranslator.trim_subtitles_to_english(text)
     print(result)
 
-    gptranslator.set_model(GPTModel.GPT_4_TURBO_2024_04_09)
+    gptranslator.set_model(GPTModel.GPT_4_o_MINI)
     print(gptranslator.get_model())
 
     result = gptranslator.trim_subtitles_to_english(text)
