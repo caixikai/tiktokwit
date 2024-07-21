@@ -71,7 +71,15 @@ python Run.py
 
 ## 许可证
 
-Tiktokwit根据MIT许可证发布。您可以自由使用、修改和分发该代码，无论是用于商业用途还是非商业用途。
+本仓库遵循 [Tiktokwit Open Source License](https://github.com/caixikai/tiktokwit/blob/main/LICENSE) 开源协议。
+
+- 允许作为后台服务直接商用，但不允许提供 SaaS 服务。
+- 未经商业授权，任何形式的商用服务均需保留相关版权信息。
+
+完整请查看 [Tiktokwit Open Source License](https://github.com/caixikai/tiktokwit/blob/main/LICENSE)
+
+联系方式：caixikai01@gmail.com
+
 
 ## 扩展的想法
 以下是我们还没有时间去尝试但希望开源社区能够尝试的想法：
