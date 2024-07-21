@@ -1,0 +1,5 @@
+# 忽略 __pycache__ 目录
+__pycache__/
+
+# 忽略 log 目录
+logs/
