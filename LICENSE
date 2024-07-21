@@ -1,21 +1,37 @@
-MIT License
+# Tiktokwit Open Source License
 
-Copyright (c) [2024] [Alex.Cai WTWT.He ]
+© 2024 Alex.Cai WTWT.He
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Tiktokwit is released under the Apache 2.0 license, with the following additional conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Tiktokwit allows commercial use. You can use Tiktokwit as a "Backend as a Service" for other applications or as a platform for enterprise application development. However, under the following conditions, you must contact the creator to obtain a commercial license:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    a. Multi-tenant SaaS Services: Unless you receive explicit written authorization from Tiktokwit, you may not use Tiktokwit's source code to operate a multi-tenant SaaS service similar to Tiktokwit.
+    
+    b. LOGO and Copyright Information: During the use of Tiktokwit, you may not remove or modify the LOGO or copyright information in Tiktokwit's code.
+
+    Please contact caixikai01@gmail.com for licensing matters.
+
+2. As a contributor, you agree that the code you contribute:
+
+    a. The creators can adjust the open source license as needed, making it stricter or more lenient.
+    
+    b. It can be used for commercial purposes, such as Tiktokwit's cloud services.
+
+Apart from this, all other rights and restrictions follow the Apache 2.0 license. For more detailed information, you can refer to the full version of the Apache 2.0 license.
+
+The product's interaction design is protected by design patents.
+
+---
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
