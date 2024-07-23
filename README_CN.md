@@ -1,8 +1,8 @@
 # Tiktokwit: 使用LLM Agent的反思原理实现自动视频翻译
 
 <p align="center">
-  <a href="./README_EN.md">English</a> |
-  <a href="./README.md">简体中文</a> |
+  <a href="./README.md">English</a> |
+  <a href="./README_CN.md">Chinese</a> |
 </p>
 
 ## 项目介绍
