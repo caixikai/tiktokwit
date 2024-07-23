@@ -1,8 +1,8 @@
 
 # Tiktokwit: Automated Video Translation Using LLM Agent Reflective Mechanism
 <p align="center">
-  <a href="./README_EN.md">English</a> |
-  <a href="./README.md">Chinese</a> |
+  <a href="./README.md">English</a> |
+  <a href="./README_CN.md">Chinese</a> |
 </p>
 
 ## Project Introduction
