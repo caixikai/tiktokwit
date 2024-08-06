@@ -52,7 +52,7 @@
    - Burn the target language subtitles and video together to generate the final file with timestamps.
 
 ## Core Code Available
-- The SaaS version of this project is now online at https://mp4.tiktokwit.com/. Feel free to try it out.
+- The SaaS version of this project is now online at https://www.tiktokwit.com/mp4. Feel free to try it out.
 - The current version is a relatively complete version, the result of efforts by alex.cai and WTWT.He over the past few months, with additional help from collaborator (xianyu) in building the commercial front-end interface.
 - Thank you for your support of this project, and we hope more people can participate.
 
