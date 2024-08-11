@@ -94,7 +94,7 @@ python Run.py
 3. 对于亚洲语系，openai输出日文和韩文语音文件测试效果不理想。
 
 # 社区交流群
-<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="微信群二维码" width="500">
+<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.png?raw=true" alt="微信群二维码" width="500">
 
 # 视频演示
 所有demo视频都在tiktokwit/demomp4/这个目录下面

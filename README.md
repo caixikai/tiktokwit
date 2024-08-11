@@ -92,7 +92,7 @@ Here are some ideas we haven't had time to try yet but hope the open-source comm
 3. For Asian languages, the OpenAI output for Japanese and Korean audio files did not test well.
 
 # Community Group
-<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.jpg?raw=true" alt="WeChat Group QR Code" width="500">
+<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.png?raw=true" alt="WeChat Group QR Code" width="500">
 
 # Video Demonstration
 All demo videos are in the tiktokwit/demomp4/ directory.
