@@ -91,7 +91,7 @@ Here are some ideas we haven't had time to try yet but hope the open-source comm
 2. Consider making further modifications to this project's code with reference to Andrew Ng's translation-agent.
 3. For Asian languages, the OpenAI output for Japanese and Korean audio files did not test well.
 
-# Community Group
+# Community Group Chat: Please Add Our Assistant on WeChat to Join the Group
 <img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.png?raw=true" alt="WeChat Group QR Code" width="500">
 
 # Video Demonstration

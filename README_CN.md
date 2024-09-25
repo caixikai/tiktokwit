@@ -93,8 +93,8 @@ python Run.py
 2. 大家可以尝试参考吴恩达老师的translation-agent对本项目代码做进一步的修改。
 3. 对于亚洲语系，openai输出日文和韩文语音文件测试效果不理想。
 
-# 社区交流群
-<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.png?raw=true" alt="微信群二维码" width="500">
+# 社区交流群，请添加小助手的微信，拉您入群
+<img src="https://github.com/caixikai/tiktokwit/blob/main/weixin.png?raw=true" alt="微信小助手" width="500">
 
 # 视频演示
 所有demo视频都在tiktokwit/demomp4/这个目录下面
